@@ -1,2 +1,2 @@
 # hora-da-pratica-py
-Praticando python
+Praticando python com Colab
